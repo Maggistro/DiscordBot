@@ -1,0 +1,10 @@
+{
+  "name": "publish-bot",
+  "version": "0.0.1",
+  "description": "Publish Bot Discord",
+  "main": "bot.js",
+  "author": "Maggistro",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
