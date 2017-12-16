@@ -3,8 +3,12 @@
   "version": "0.0.1",
   "description": "Publish Bot Discord",
   "main": "bot.js",
+  "repository": "https://github.com/Maggistro/DiscordBot",
   "author": "Maggistro",
+  "license": "LICENSE",
   "dependencies": {
-    "discord.js": "^11.2.1"
+    "winston": "^3.0.0-rc1",
+    "discord.js": "^11.2.1",
+	"node-schedule": "^1.2.5"
   }
 }
